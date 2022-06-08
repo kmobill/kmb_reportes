@@ -1,0 +1,9 @@
+# virutal envyroment
+/venv
+#pyhton cache
+/__pycache__
+#key to cryp
+.private_noshare.pem
+.public_shared.pem
+
+

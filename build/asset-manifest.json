@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9536259a.css",
+    "main.js": "/static/js/main.849e8ead.js",
+    "static/media/Fondo_home_kmb.jpg": "/static/media/Fondo_home_kmb.8e591c139078fd5a0570.jpg",
+    "static/media/tulcan.png": "/static/media/tulcan.7f0c6d223d00b5f8873c.png",
+    "static/media/oscus.png": "/static/media/oscus.5af547c22588909a1f60.png",
+    "static/media/san francisco.png": "/static/media/san francisco.59986ab9bafcd7331478.png",
+    "static/media/patutan.png": "/static/media/patutan.2035505066816a6c3c90.png",
+    "static/media/mushuc runa.png": "/static/media/mushuc runa.e6336cc7cc9828dcf9b4.png",
+    "static/media/kmb.png": "/static/media/kmb.8660b3979f69ca3801bf.png",
+    "static/media/kmb2.png": "/static/media/kmb2.01c30ab491a555982b59.png",
+    "static/media/daquilema.png": "/static/media/daquilema.819c6c7551cdd338c807.png",
+    "static/media/cacpe gualaquiza.png": "/static/media/cacpe gualaquiza.d1246a3a06f5624a9189.png",
+    "static/media/tena.png": "/static/media/tena.50f72b8fdec51267bd05.png",
+    "static/media/isotipo.png": "/static/media/isotipo.900a10d543cb71b073ec.png",
+    "static/media/ccca.png": "/static/media/ccca.c2e3081d4773fd7bff21.png",
+    "static/media/Proxima Nova Bold Italic.otf": "/static/media/Proxima Nova Bold Italic.13d35d2043f76b4e0ca2.otf",
+    "static/media/Proxima Nova Semibold Italic.otf": "/static/media/Proxima Nova Semibold Italic.c9b17812f5510a7f8252.otf",
+    "static/media/Proxima Nova Semibold.otf": "/static/media/Proxima Nova Semibold.227817852e96b494055e.otf",
+    "static/media/Proxima Nova Regular.otf": "/static/media/Proxima Nova Regular.7bc9ce404c297c24f210.otf",
+    "static/media/gañansol.png": "/static/media/gañansol.bcf7da19c59405c73341.png",
+    "static/media/Proxima Nova Alt Bold.otf": "/static/media/Proxima Nova Alt Bold.befbbce7b9f5e3e63132.otf",
+    "static/media/Proxima Nova Alt Light.otf": "/static/media/Proxima Nova Alt Light.ad48cb5acdd38dc03790.otf",
+    "index.html": "/index.html",
+    "main.9536259a.css.map": "/static/css/main.9536259a.css.map",
+    "main.849e8ead.js.map": "/static/js/main.849e8ead.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9536259a.css",
+    "static/js/main.849e8ead.js"
+  ]
+}
